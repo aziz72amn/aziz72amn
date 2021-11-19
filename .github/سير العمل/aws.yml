@@ -90,3 +90,6 @@ jobs:
         service: ${{ env.ECS_SERVICE }}
         cluster: ${{ env.ECS_CLUSTER }}
         wait-for-service-stability: true
+
+2021-11-19T14:53:36.5901253Z Waiting for a Hosted runner in the 'organization' to pick this job...
+2021-11-19T14:53:36.8047759Z Job is waiting for a hosted runner to come online.
